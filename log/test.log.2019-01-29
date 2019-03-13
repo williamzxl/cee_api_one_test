@@ -1,0 +1,17 @@
+2019-01-29 15:43:24,862 - framework - INFO - Uname:t-0129-43@t.com
+2019-01-29 15:43:25,593 - framework - INFO - t-0129-43
+2019-01-29 15:43:25,593 - framework - INFO - test_0_login_success:None
+2019-01-29 15:43:25,935 - framework - INFO - test_login_fail_with_right_uname_wrong_pwd:None
+2019-01-29 15:43:26,161 - framework - INFO - test_login_fail_with_wrong_uname_right_pwd:None
+2019-01-29 15:43:26,476 - framework - INFO - test_login_fail_with_wrong_uname_wrong_pwd：None
+2019-01-29 15:43:26,482 - framework - INFO - t-0129-43@t.com
+2019-01-29 15:43:27,138 - framework - INFO - t-0129-43@t.com
+2019-01-29 15:43:27,678 - framework - INFO - t-0129-43@t.com
+2019-01-29 15:43:28,140 - framework - INFO - t-0129-43@t.com
+2019-01-29 15:43:30,321 - framework - INFO - t-0129-43@t.com
+2019-01-29 15:43:30,929 - framework - INFO - t-0129-43@t.com
+2019-01-29 15:43:31,469 - framework - INFO - t-0129-43@t.com
+2019-01-29 15:43:31,776 - framework - INFO - 6666666666666:{'code': 10003, 'message': '未登录，请先登录'}
+2019-01-29 15:43:33,312 - framework - INFO - 6666666666666:{'code': 10003, 'message': '未登录，请先登录'}
+2019-01-29 15:43:33,906 - framework - INFO - 6666666666666:{'code': 10003, 'message': '未登录，请先登录'}
+2019-01-29 15:43:35,502 - framework - INFO - 6666666666666:{'code': 10003, 'message': '未登录，请先登录'}

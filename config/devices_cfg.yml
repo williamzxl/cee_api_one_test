@@ -1,0 +1,32 @@
+- vivox6:
+    appium_url:
+      url: http://127.0.0.1:4723/wd/hub
+    common:
+      loginUrl: https://proxy.langlib.com
+      loginProxy: proxy.langlib.com
+      baseUrl: https://appncee.langlib.com
+      baseProxy: appncee.langlib.com
+      pr: P90
+      pwd: 111111
+      uname: lbtest0130015@c.com
+    desired_caps:
+      appActivity: com.langlib.ncee.ui.main.SplashActivity
+      appPackage: com.langlib.ncee
+      deviceName: 33ea8e00
+      platformName: Android
+      platformVersion: 6.0.1
+      resetKeyboard: true
+      udid: 33ea8e00
+      unicodeKeyboard: true
+    headers:
+      Accept-Encoding: gzip
+      App: cee
+      AppSecret: 3DB5159C-EB1E-47FE-8584-47115EF5E443
+      Connection: Keep-Alive
+      Content-Length: '52'
+      Content-Type: application/json; charset=utf-8
+      Host: prep-proxy.langlib.com
+      Platform: Android
+      User-Agent: okhttp/3.11.0
+      appkey: CEE_AA8F55B916AB
+      appversion: '10002001'
